@@ -1,0 +1,3 @@
+- SIPSER, M. Introduction to the Theory of Computation. 2 ed. 2005.
+    - HOPCROFT, J. E., ULLMAN, Jeffrey, D., MONTWANI, R. Introdução à teoria de autômatos, linguagens e computação. Rio de Janeiro: Campus, 2003.
+    - MENEZES, P. F. B. Linguagens formais e autômatos. 4 ed. Porto Alegre: Sagra Luzzato, 2002.
