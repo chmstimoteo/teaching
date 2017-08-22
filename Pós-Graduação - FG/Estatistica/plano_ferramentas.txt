@@ -1,0 +1,12 @@
+Tempo e Custo
+	Estimativa Análoga
+	Análise PERT  de 0.9(1s) a 1.2(3s)
+Qualidade
+	Folha de Verificação
+	Histograma
+	Gráfico de Controle = http://www.portalaction.com.br/content/42-gr%C3%A1ficos-m%C3%A9dia-e-desvio-padr%C3%A3o (como construir um CEP)
+	Diagrama de Dispersão
+	Benchmarking
+	Projeto de Experimentos
+	Amostragem Estatística / Simulação de Monte Carlo
+Risco
